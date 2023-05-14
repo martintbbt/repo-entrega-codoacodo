@@ -1,0 +1,53 @@
+/* .caja {
+    border: 2px solid black;
+} */
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.verde {
+    background-color: green;
+}
+
+.gris {
+    background-color: rgb(62, 62, 62);
+}
+
+.fucsia {
+    background-color: blueviolet;
+}
+
+.naranja {
+    background-color: orange;
+}
+
+/* altura cajas naranja y azules */
+.altof {
+    height: 450px;
+}
+
+.alto {
+    height: 450px;
+}
+
+.altoAzules{
+    height: 300px;
+}
+
+.p1{
+    color: aliceblue;
+}
+
+.marron {
+    background-color: rgb(152, 98, 5);
+}
+
+.img-card {
+    max-width: 80%;
+    max-height: 80%;
+    object-fit: contain;
+}
